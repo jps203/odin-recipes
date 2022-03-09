@@ -1,0 +1,17 @@
+h1{
+    color: black;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    text-align: center;
+}
+
+li{
+    color: black;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+}
+
+*{
+    background-color: rgb(180, 150, 110);
+}
